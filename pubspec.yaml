@@ -1,7 +1,7 @@
 name: dropdown_button_vconnex
-description: A new Flutter package project.
+description: A new Flutter package Dropdown for user.
 version: 0.0.1
-homepage:
+homepage: https://github.com/quan27102002/dropdown_button_vconnex
 
 environment:
   sdk: '>=2.12.13 <4.0.0'
